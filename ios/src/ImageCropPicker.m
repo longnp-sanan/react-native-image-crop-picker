@@ -70,8 +70,8 @@ RCT_EXPORT_MODULE();
             @"showsSelectedCount": @YES,
             @"forceJpg": @NO,
             @"sortOrder": @"none",
-            @"cropperCancelText": @"Cancel",
-            @"cropperChooseText": @"Choose",
+            @"cropperCancelText": @"キャンセル",
+            @"cropperChooseText": @"選択",
             @"cropperRotateButtonsHidden": @NO
         };
         self.compression = [[Compression alloc] init];
