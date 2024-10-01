@@ -251,7 +251,7 @@ declare module "react-native-image-crop-picker" {
         /**
          * Cancel button text.
          *
-         * @default 'Cancel'
+         * @default 'キャンセル'
          */
         cropperCancelText?: string;
 
@@ -266,7 +266,7 @@ declare module "react-native-image-crop-picker" {
         /**
          * Choose button text.
          *
-         * @default 'Choose'
+         * @default '選択'
          */
         cropperChooseText?: string;
 
